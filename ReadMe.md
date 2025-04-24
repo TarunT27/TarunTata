@@ -1,10 +1,10 @@
 # 💫 About Me:
-I'm a current Student 
+I'm a current Student <br>
 I have created a robin hood clone 
 I have created a personal nutrition tracking AI app called NutriTracker AI
 Avid math and technology/business enthusiast
 
-<br>
+
 
 
 ## 🌐 Socials:
